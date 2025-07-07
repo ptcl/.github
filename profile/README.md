@@ -66,7 +66,6 @@ Les contributions, retours et idées sont toujours les bienvenus via issues ou d
 
 | Nom | Rôle | Projet(s) concerné(s) |
 |-----|------|------------------------|
-| |  |  |
+| **Yor** | Beta-testeur · Donateur (emblème)  | ANOM-ARCHIVE|
 
 > *Cette section met en avant les personnes qui participent ponctuellement aux Protocols (tests, feedbacks, création de contenu, documentation, etc.).*
-
