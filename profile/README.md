@@ -52,7 +52,7 @@ C’est une **méthodologie** de développement : chaque "Protocol" est une **br
 | Nom | Rôle | Description |
 |-----|------|-------------|
 | **Lucas Raffalli** | Co-fondateur · Développeur fullstack · Designer | Idéation, architecture, développement, design |
-| **Alex** | Co-fondateur · Développeur backend | Idéation, architecture, développement backend |
+| **Alexandre Lavallée** | Co-fondateur · Développeur backend | Idéation, architecture, développement backend |
 
 ---
 
