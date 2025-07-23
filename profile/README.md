@@ -34,7 +34,7 @@ C’est une **méthodologie** de développement : chaque "Protocol" est une **br
 - Frontend : `React`, `Next.js`
 - Desktop : `Electron`
 - Backend/API : `Node.js`, `GraphQL`, `MongoDB`
-- UI : `Lucide Icons`, `TailwindCSS`, `Radix UI`, `shadcn/ui`
+- UI : `Lucide Icons`, `TailwindCSS`, `shadcn/ui`
 - Bots Discord : `discord.js v14`
 
 ---
