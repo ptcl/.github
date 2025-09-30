@@ -25,7 +25,7 @@ C’est une **méthodologie** de développement : chaque "Protocol" est une **br
 | [**Protocol Lumina**](https://github.com/LucasRaffalli/Lumina) | ✅ Terminé | Interface Rich Presence Discord locale | ✅ Oui |
 | **Protocol Aurora** | ✏️ Prototypage | Hub Destiny 2 centralisant outils et builds | ❌ Non |
 | **Protocol Zenith Network** | ✏️ Prototypage | Réseau de bots Discord modulaires | ❌ Non |
-| **Protocol Anomaly Archives** | ✏️ Prototypage | ARG Destiny 2 basé sur le lore et les énigmes | ✅ Oui |
+| **Protocol Anomaly Archives** | ✏️ Prototypage | ARG Destiny 2 basé sur le lore et les énigmes | ❌ Non |
 
 ---
 
@@ -51,9 +51,8 @@ C’est une **méthodologie** de développement : chaque "Protocol" est une **br
 
 | Nom | Rôle | Description |
 |-----|------|-------------|
-| **Lucas Raffalli** | Co-fondateur · Développeur fullstack · Designer | Idéation, architecture, développement, design |
-| **Alexandre Lavallée** | Co-fondateur · Développeur backend | Idéation, architecture, développement backend |
-
+| **Lucas Raffalli** | Fondateur · Fullstack & UI/UX Designer | Idéation, architecture, développement, design produit |
+| **Alexandre Lavallée** | Concepteur d’énigmes · Rédacteur d’histoires | Création d’énigmes, narration, écriture immersive |
 ---
 
 ## 🤝 Contribution
